@@ -16,5 +16,5 @@ Run the following commands from your terminal:
 
 ## Screenshots 
 
-<img src = "lib/Simulator Screenshot - quibler7's iPhone 15 Pro - 2023-12-19 at 11.45.00.png" height = 500 width =250 >
-<img src = "lib/Simulator Screenshot - quibler7's iPhone 15 Pro - 2023-12-19 at 11.52.38.png" height = 500 width =250 >
+<img src = "lib/expense1.png" height = 500 width =250 >
+<img src = "lib/expense2.png" height = 500 width =250 >
