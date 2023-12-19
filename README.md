@@ -21,3 +21,4 @@ Run the following commands from your terminal:
 
 ![Simulator Screenshot - quibler7's iPhone 15 Pro - 2023-12-19 at 11 45 00](https://github.com/quibler7/Expense-Tracker-App-using-Flutter/assets/37498892/f3f4ae79-1985-49a3-b9b2-1f94513d8bad)
 
+<img src = "lib/Simulator Screenshot - quibler7's iPhone 15 Pro - 2023-12-19 at 11.45.00.png" height = 200 width = 100>
